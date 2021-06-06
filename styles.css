@@ -38,3 +38,8 @@ input:active {
 button {
   padding: 1% 4%;
 }
+
+.creditos {
+  display: flex;
+  margin: 2rem;
+}
